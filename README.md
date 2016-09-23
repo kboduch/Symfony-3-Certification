@@ -1,10 +1,15 @@
 # Symfony 3 Certification Resources
 
-List of [Symfony Certification Topics](https://sensiolabs.com/en/symfony/certification.html).
+List of [Symfony 3 Certification Topics](https://sensiolabs.com/en/symfony/certification.html).
 
 ##PHP and Web Security
 
 #####Object Oriented Programming
+######Links
+http://www.php.net/manual/en/oop5.intro.php
+
+http://php.net/language.oop5
+
 #####Namespaces
 #####Interfaces
 #####Anonymous functions and closures
