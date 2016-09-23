@@ -72,14 +72,34 @@ http://symfony.com/doc/current/components/http_foundation.html#request
 
 https://www.tutorialspoint.com/http/http_requests.htm
 
+https://www.tutorialspoint.com/http/http_header_fields.htm
 #####HTTP response
 http://symfony.com/doc/current/components/http_foundation.html#response
 
 https://www.tutorialspoint.com/http/http_responses.htm
 #####HTTP methods
 https://www.tutorialspoint.com/http/http_methods.htm
+
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
 #####Cookies
+https://symfony.com/doc/current/components/browser_kit.html#cookies
+
+https://symfony.com/doc/current/http_cache/varnish.html#cookies-and-caching
+
+https://en.wikipedia.org/wiki/HTTP_cookie
+
 #####Caching
+https://www.tutorialspoint.com/http/http_caching.htm
+
+https://symfony.com/doc/current/http_cache.html#main
+
+https://symfony.com/doc/current/http_cache/form_csrf_caching.html
+
+https://symfony.com/doc/current/http_cache/validation.html
+
+https://symfony.com/doc/current/http_cache/expiration.html
+
+https://symfony.com/doc/current/http_cache.html#learn-more
 #####Content negotiation
 #####Language detection
 
