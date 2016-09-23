@@ -101,20 +101,51 @@ https://symfony.com/doc/current/http_cache/expiration.html
 
 https://symfony.com/doc/current/http_cache.html#learn-more
 #####Content negotiation
+https://en.wikipedia.org/wiki/Content_negotiation
+
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec12.html
 #####Language detection
+https://www.w3.org/International/questions/qa-accept-lang-locales
 
 ##Symfony Architecture
 #####Symfony Standard Edition
+https://symfony.com/doc/bundles/#doc-content-tools
+
+http://symfony.com/distributions
+
+https://github.com/symfony/symfony-standard
+
 #####License
+https://symfony.com/doc/current/contributing/code/license.html
+
+https://github.com/symfony/symfony-standard/blob/master/LICENSE
 #####Components
+https://symfony.com/doc/current/components/index.html
+
 #####Bundles
+https://symfony.com/doc/current/bundles.html
+
+https://symfony.com/doc/bundles/
 #####Bridges
+
 #####Configuration
+https://symfony.com/doc/current/configuration.html#main
+
+https://symfony.com/doc/current/configuration.html#learn-more
 #####Code organization
+http://symfony.com/doc/current/quick_tour/the_architecture.html
 #####Request handling
+http://symfony.com/doc/current/introduction/http_fundamentals.html#the-journey-from-the-request-to-the-response
 #####Exception handling
+http://symfony.com/doc/current/controller/error_pages.html
 #####Event dispatcher and kernel events
+https://symfony.com/doc/current/components/event_dispatcher.html
+
 #####Official best practices
+https://symfony.com/doc/current/bundles/best_practices.html#main
+
+https://symfony.com/doc/current/best_practices/introduction.html
+
 #####Release management
 #####Backward compatibility promise
 #####Deprecations best practices
