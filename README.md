@@ -5,27 +5,79 @@ List of [Symfony 3 Certification Topics](https://sensiolabs.com/en/symfony/certi
 ##PHP and Web Security
 
 #####Object Oriented Programming
-######Links
 http://www.php.net/manual/en/oop5.intro.php
 
 http://php.net/language.oop5
 
 #####Namespaces
-#####Interfaces
-#####Anonymous functions and closures
-#####Abstract classes
-#####Exception and error handling
-#####Traits
-#####PHP extensions
-#####SPL
-#####Web security (XSS, CSRF, etc.)
+http://php.net/manual/en/language.namespaces.php
 
+http://www.phptherightway.com/#namespaces
+
+http://www.php-fig.org/psr/psr-0/
+
+http://www.php-fig.org/psr/psr-4/
+#####Interfaces
+http://php.net/manual/en/language.oop5.interfaces.php
+
+http://phpenthusiast.com/object-oriented-php-tutorials/interfaces
+#####Anonymous functions and closures
+http://php.net/functions.anonymous
+
+http://php.net/class.closure
+#####Abstract classes
+http://php.net/manual/en/language.oop5.abstract.php
+#####Exception and error handling
+http://php.net/manual/en/class.exception.php
+
+http://www.phptherightway.com/#errors_and_exceptions
+
+http://www.phptherightway.com/#error_reporting
+#####Traits
+http://php.net/manual/en/language.oop5.traits.php
+
+#####PHP extensions
+http://php.net/manual/en/extensions.membership.php
+
+#####SPL
+http://php.net/book.spl
+
+#####Web security (XSS, CSRF, etc.)
+https://en.wikipedia.org/wiki/Cross-site_scripting
+
+https://en.wikipedia.org/wiki/Cross-site_request_forgery
+
+https://symfony.com/doc/current/security/csrf_in_login_form.html
+
+https://symfony.com/doc/current/form/csrf_protection.html
+
+https://symfony.com/doc/current/controller/csrf_token_validation.html
+
+https://symfony.com/doc/current/reference/configuration/twig.html
+
+https://symfony.com/doc/3.0/templating.html#output-escaping
+
+What else?
 ##HTTP
 #####Client / Server interaction
+http://symfony.com/doc/current/introduction/http_fundamentals.html
+
+https://www.tutorialspoint.com/http/http_overview.htm
 #####Status codes
+https://www.tutorialspoint.com/http/http_status_codes.htm
+
+http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 #####HTTP request
+http://symfony.com/doc/current/components/http_foundation.html#request
+
+https://www.tutorialspoint.com/http/http_requests.htm
+
 #####HTTP response
+http://symfony.com/doc/current/components/http_foundation.html#response
+
+https://www.tutorialspoint.com/http/http_responses.htm
 #####HTTP methods
+https://www.tutorialspoint.com/http/http_methods.htm
 #####Cookies
 #####Caching
 #####Content negotiation
